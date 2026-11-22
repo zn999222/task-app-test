@@ -1,0 +1,19 @@
+# Sunny Studio — SEO/AEO/GEO fixes from audit #2
+User-agent: *
+Allow: /
+Sitemap: https://task-app-test.vercel.app/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
